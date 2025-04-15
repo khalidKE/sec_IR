@@ -57,5 +57,3 @@ subset: [2]
 
 Result for query 'data AND learning': [2]
 ```
-
-هل تحب أرسله لك كملف `.md` جاهز للتحميل؟
